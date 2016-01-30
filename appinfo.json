@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dduan97@gmail.com",
+    "longName": "tetris",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "tetris",
+    "uuid": "77a8ebd5-aa4e-4f6e-bb8d-c73fb07b3ac5",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
